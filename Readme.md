@@ -1,6 +1,6 @@
 # Rules
 
-  ## - General Rules
+  ## General Rules
 
 - There is no need to have prerequisite knowledge of the series to be a part of this event.
 
@@ -18,7 +18,7 @@
 
 - The game will start at the same time for everyone. If anyone joins late, their time will be counted from the starting time stamp which was set for everyone.
 
-  ## - Scoresheet Rules 
+  ## Scoresheet Rules 
 
 - There are a total of 11 tasks throughout the game.
 
@@ -36,7 +36,7 @@
 
 - You will get unlimited trials after your credit becomes 0.
 
-  ## - Points System
+  ## Points System
 
 - Hint taken - 30% of your current bank balance will be deducted.
  If solved correctly in,
